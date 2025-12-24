@@ -13,7 +13,7 @@ A premium, high-quality, and fully responsive One-Page Creative Agency Portfolio
 > [!NOTE]
 > Click the button below to view the live deployment.
 
-[**View Live Demo**](#) <!-- Replace '#' with your actual live URL, e.g., https://username.github.io/repo-name/ -->
+[**View Live Demo**](https://ahmedhamdy678.github.io/Kasper-Creative-Agency-Template/)
 
 ---
 
@@ -64,7 +64,7 @@ A premium, high-quality, and fully responsive One-Page Creative Agency Portfolio
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/Start-Of-The-Dream/Template_Two.git
+    git clone https://github.com/AhmedHamdy678/Kasper-Creative-Agency-Template.git
     ```
     *(Replace with your actual repository URL)*
 
@@ -85,15 +85,15 @@ This project is ready to be hosted on **GitHub Pages**.
 1.  Go to your repository **Settings**.
 2.  Navigate to the **Pages** section.
 3.  Select the `main` branch as the source.
-4.  Your site will be live at `https://yourusername.github.io/repository-name`.
+4.  Your site will be live at `https://github.com/AhmedHamdy678/Kasper-Creative-Agency-Template`.
 
 ---
 
-## 👤 Contact
+## 👤 Contact 0111 5561531
 
-Created by **[Your Name]**
+Created by **[Ahmed Hamdy]**
 
-- **Email**: [your.email@example.com](mailto:your.email@example.com)
+- **Email**: (syda90215@gmail.com)
 - **LinkedIn**: [Your Profile](https://linkedin.com/in/yourprofile)
 - **Portfolio**: [Your Portfolio](https://yourportfolio.com)
 
